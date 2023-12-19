@@ -1,6 +1,7 @@
 // Importa o framework Express e cria uma instância do aplicativo
 const express = require('express');
 const app = express();
+const cors = require('cors');
 
 // Importa os modelos de banco de dados para equipamentos e timebased
 const Equipamentos = require('./models/equipamentos');
@@ -8,6 +9,9 @@ const TimeBased = require('./models/timebased');
 
 // Configura o aplicativo para aceitar e processar dados no formato JSON
 app.use(express.json());
+
+// Configurando o middleware CORS
+app.use(cors());
 
 // Rota para obter dados de equipamentos
 app.get('/equipamentos/dados', async (req, res) => {
