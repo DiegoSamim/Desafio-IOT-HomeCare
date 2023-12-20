@@ -1,0 +1,92 @@
+[
+	{
+		"id" : 1,
+		"Tag" : "poweroff",
+		"IMEI" : "123",
+		"Valor" : 1,
+		"Timestamp" : "2023-01-15 13:30:00",
+		"createdAt" : "2023-12-12 21:41:59",
+		"updatedAt" : "2023-12-12 21:42:38"
+	},
+	{
+		"id" : 7,
+		"Tag" : "poweron",
+		"IMEI" : "456",
+		"Valor" : 1,
+		"Timestamp" : "2023-02-20 11:45:00",
+		"createdAt" : "2023-12-12 22:17:03",
+		"updatedAt" : "2023-12-12 22:17:03"
+	},
+	{
+		"id" : 8,
+		"Tag" : "poweron",
+		"IMEI" : "789",
+		"Valor" : 1,
+		"Timestamp" : "2023-03-10 17:15:00",
+		"createdAt" : "2023-12-12 22:17:13",
+		"updatedAt" : "2023-12-12 22:17:13"
+	},
+	{
+		"id" : 9,
+		"Tag" : "poweroff",
+		"IMEI" : "101",
+		"Valor" : 1,
+		"Timestamp" : "2023-04-05 12:55:00",
+		"createdAt" : "2023-12-12 22:17:19",
+		"updatedAt" : "2023-12-12 22:17:19"
+	},
+	{
+		"id" : 10,
+		"Tag" : "poweron",
+		"IMEI" : "202",
+		"Valor" : 1,
+		"Timestamp" : "2023-05-12 21:45:00",
+		"createdAt" : "2023-12-12 22:17:24",
+		"updatedAt" : "2023-12-12 22:17:24"
+	},
+	{
+		"id" : 11,
+		"Tag" : "poweron",
+		"IMEI" : "303",
+		"Valor" : 1,
+		"Timestamp" : "2023-06-25 14:30:00",
+		"createdAt" : "2023-12-12 22:17:31",
+		"updatedAt" : "2023-12-12 22:17:31"
+	},
+	{
+		"id" : 12,
+		"Tag" : "poweron",
+		"IMEI" : "404",
+		"Valor" : 1,
+		"Timestamp" : "2023-07-17 17:00:00",
+		"createdAt" : "2023-12-12 22:17:36",
+		"updatedAt" : "2023-12-12 22:17:36"
+	},
+	{
+		"id" : 13,
+		"Tag" : "poweroff",
+		"IMEI" : "505",
+		"Valor" : 1,
+		"Timestamp" : "2023-08-03 10:20:00",
+		"createdAt" : "2023-12-12 22:17:40",
+		"updatedAt" : "2023-12-12 22:17:40"
+	},
+	{
+		"id" : 14,
+		"Tag" : "poweroff",
+		"IMEI" : "606",
+		"Valor" : 1,
+		"Timestamp" : "2023-09-22 22:45:00",
+		"createdAt" : "2023-12-12 22:17:45",
+		"updatedAt" : "2023-12-12 22:17:45"
+	},
+	{
+		"id" : 15,
+		"Tag" : "poweroff",
+		"IMEI" : "707",
+		"Valor" : 1,
+		"Timestamp" : "2023-10-08 19:00:00",
+		"createdAt" : "2023-12-12 22:17:52",
+		"updatedAt" : "2023-12-12 22:17:52"
+	}
+]

@@ -1,0 +1,202 @@
+[
+	{
+		"id" : 1,
+		"Tag" : "timebased",
+		"IMEI" : "123",
+		"ErroCode" : "SENSOR_FAILURE",
+		"TSLPowerOn" : 10000,
+		"Timestamp" : "2023-01-15 15:00:00",
+		"createdAt" : "2023-12-12 21:59:30",
+		"updatedAt" : "2023-12-12 21:59:30"
+	},
+	{
+		"id" : 2,
+		"Tag" : "timebased",
+		"IMEI" : "456",
+		"ErroCode" : "0",
+		"TSLPowerOn" : 8000,
+		"Timestamp" : "2023-02-20 11:30:00",
+		"createdAt" : "2023-12-12 22:11:04",
+		"updatedAt" : "2023-12-12 22:11:04"
+	},
+	{
+		"id" : 3,
+		"Tag" : "timebased",
+		"IMEI" : "789",
+		"ErroCode" : "0",
+		"TSLPowerOn" : 5000,
+		"Timestamp" : "2023-03-10 18:45:00",
+		"createdAt" : "2023-12-12 22:11:20",
+		"updatedAt" : "2023-12-12 22:11:20"
+	},
+	{
+		"id" : 4,
+		"Tag" : "timebased",
+		"IMEI" : "101",
+		"ErroCode" : "0",
+		"TSLPowerOn" : 12000,
+		"Timestamp" : "2023-04-05 12:20:00",
+		"createdAt" : "2023-12-12 22:11:29",
+		"updatedAt" : "2023-12-12 22:11:29"
+	},
+	{
+		"id" : 5,
+		"Tag" : "timebased",
+		"IMEI" : "202",
+		"ErroCode" : "MEMORY_FAILURE",
+		"TSLPowerOn" : 15000,
+		"Timestamp" : "2023-05-12 21:10:00",
+		"createdAt" : "2023-12-12 22:11:46",
+		"updatedAt" : "2023-12-12 22:11:46"
+	},
+	{
+		"id" : 6,
+		"Tag" : "timebased",
+		"IMEI" : "303",
+		"ErroCode" : "SENSOR_FAILURE",
+		"TSLPowerOn" : 6000,
+		"Timestamp" : "2023-06-25 14:05:00",
+		"createdAt" : "2023-12-12 22:12:28",
+		"updatedAt" : "2023-12-12 22:12:28"
+	},
+	{
+		"id" : 7,
+		"Tag" : "timebased",
+		"IMEI" : "404",
+		"ErroCode" : "0",
+		"TSLPowerOn" : 9000,
+		"Timestamp" : "2023-07-17 17:55:00",
+		"createdAt" : "2023-12-12 22:12:39",
+		"updatedAt" : "2023-12-12 22:12:39"
+	},
+	{
+		"id" : 8,
+		"Tag" : "timebased",
+		"IMEI" : "505",
+		"ErroCode" : "0",
+		"TSLPowerOn" : 11000,
+		"Timestamp" : "2023-08-03 09:40:00",
+		"createdAt" : "2023-12-12 22:12:48",
+		"updatedAt" : "2023-12-12 22:12:48"
+	},
+	{
+		"id" : 9,
+		"Tag" : "timebased",
+		"IMEI" : "606",
+		"ErroCode" : "BAD_CONFIGURATION",
+		"TSLPowerOn" : 9000,
+		"Timestamp" : "2023-12-20 15:00:00",
+		"createdAt" : "2023-12-12 22:13:05",
+		"updatedAt" : "2023-12-19 23:41:12"
+	},
+	{
+		"id" : 10,
+		"Tag" : "timebased",
+		"IMEI" : "707",
+		"ErroCode" : "MEMORY_FAILURE",
+		"TSLPowerOn" : 9500,
+		"Timestamp" : "2023-12-19 19:30:00",
+		"createdAt" : "2023-12-12 22:13:11",
+		"updatedAt" : "2023-12-19 23:22:54"
+	},
+	{
+		"id" : 11,
+		"Tag" : "timebased",
+		"IMEI" : "665",
+		"ErroCode" : "0",
+		"TSLPowerOn" : 9500,
+		"Timestamp" : "2023-12-19 03:00:00",
+		"createdAt" : "2023-12-19 23:28:52",
+		"updatedAt" : "2023-12-19 23:28:52"
+	},
+	{
+		"id" : 12,
+		"Tag" : "timebased",
+		"IMEI" : "667",
+		"ErroCode" : "0",
+		"TSLPowerOn" : 8800,
+		"Timestamp" : "2023-12-19 07:00:00",
+		"createdAt" : "2023-12-19 23:29:25",
+		"updatedAt" : "2023-12-19 23:29:25"
+	},
+	{
+		"id" : 13,
+		"Tag" : "timebased",
+		"IMEI" : "668",
+		"ErroCode" : "SENSOR_FAILURE",
+		"TSLPowerOn" : 9200,
+		"Timestamp" : "2023-12-19 11:00:00",
+		"createdAt" : "2023-12-19 23:30:14",
+		"updatedAt" : "2023-12-19 23:30:14"
+	},
+	{
+		"id" : 14,
+		"Tag" : "timebased",
+		"IMEI" : "669",
+		"ErroCode" : "0",
+		"TSLPowerOn" : 8900,
+		"Timestamp" : "2023-12-19 15:00:00",
+		"createdAt" : "2023-12-19 23:34:40",
+		"updatedAt" : "2023-12-19 23:34:40"
+	},
+	{
+		"id" : 15,
+		"Tag" : "timebased",
+		"IMEI" : "672",
+		"ErroCode" : "MEMORY_FAILURE",
+		"TSLPowerOn" : 9400,
+		"Timestamp" : "2023-12-19 19:00:00",
+		"createdAt" : "2023-12-19 23:35:19",
+		"updatedAt" : "2023-12-19 23:35:19"
+	},
+	{
+		"id" : 16,
+		"Tag" : "timebased",
+		"IMEI" : "673",
+		"ErroCode" : "0",
+		"TSLPowerOn" : 9600,
+		"Timestamp" : "2023-12-20 03:00:00",
+		"createdAt" : "2023-12-19 23:35:43",
+		"updatedAt" : "2023-12-19 23:35:59"
+	},
+	{
+		"id" : 17,
+		"Tag" : "timebased",
+		"IMEI" : "675",
+		"ErroCode" : "ERRO_CRITICAL",
+		"TSLPowerOn" : 8700,
+		"Timestamp" : "2023-12-20 07:00:00",
+		"createdAt" : "2023-12-19 23:40:07",
+		"updatedAt" : "2023-12-19 23:40:07"
+	},
+	{
+		"id" : 18,
+		"Tag" : "timebased",
+		"IMEI" : "677",
+		"ErroCode" : "0",
+		"TSLPowerOn" : 9300,
+		"Timestamp" : "2023-12-20 11:00:00",
+		"createdAt" : "2023-12-19 23:40:41",
+		"updatedAt" : "2023-12-19 23:40:41"
+	},
+	{
+		"id" : 19,
+		"Tag" : "timebased",
+		"IMEI" : "780",
+		"ErroCode" : "0",
+		"TSLPowerOn" : 9000,
+		"Timestamp" : "2023-12-20 15:30:00",
+		"createdAt" : "2023-12-19 23:41:34",
+		"updatedAt" : "2023-12-19 23:41:34"
+	},
+	{
+		"id" : 20,
+		"Tag" : "timebased",
+		"IMEI" : "680",
+		"ErroCode" : "0",
+		"TSLPowerOn" : 4500,
+		"Timestamp" : "2023-12-20 05:30:00",
+		"createdAt" : "2023-12-19 23:42:28",
+		"updatedAt" : "2023-12-19 23:42:28"
+	}
+]
